@@ -58,3 +58,8 @@ Prediction: Here we predict the quality of air by finding R^2 score using differ
 
 
 Finally, I declare that the model with the highest R^2 score on both training and testing datasets will be concluded as the best model for evaluating the Quality of Air.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
